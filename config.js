@@ -7,7 +7,7 @@ export const imageSliderContent = [
   {
     link: "https://www.facebook.com/p/Studenter-for-Palestina-Trondheim-100087592323689/?locale=nb_NO",
     image: "savegaza.webp",
-    text: "Få med det kommende arrangement"
+    text: "Få med deg kommende arrangementer"
   },
   {
     link: "https://palestinakomiteen.no/boikott-bds",
